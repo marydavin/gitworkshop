@@ -11,6 +11,7 @@
 ## with:
 
 [Evan Will](https://github.com/evanwill)
+[mary davin](https://github.com/marydavin)
 
 [Katherine](https://github.com/khegewisch)
 
